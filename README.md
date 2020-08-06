@@ -5,6 +5,7 @@
 It's a backend CMS like admin system that can be used to manage a website.
 
 Laravel version: 7
+
 Scaffolding: Bootstrap
 
 It has a couple build in features and relationships
