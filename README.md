@@ -17,6 +17,7 @@ It has a couple build in features and relationships
 ## How to install
 - Clone the repo
 - Run "composer install" to install required packages
+- Run "npm install" to install npm packages
 - Setup a database
 - Setup the .env file by renaming the .env.example to .env add your database credentials there
 - Run "php artisan migrate"
