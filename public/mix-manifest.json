@@ -1,0 +1,10 @@
+{
+    "/assets/css/frontend.css": "/assets/css/frontend.css",
+    "/administrator/assets/css/admin.css": "/administrator/assets/css/admin.css",
+    "/assets/js/custom-es5-frontend.js": "/assets/js/custom-es5-frontend.js",
+    "/assets/css/libs.css": "/assets/css/libs.css",
+    "/assets/js/libs.js": "/assets/js/libs.js",
+    "/administrator/assets/js/custom-es5-backend.js": "/administrator/assets/js/custom-es5-backend.js",
+    "/administrator/assets/css/libs.css": "/administrator/assets/css/libs.css",
+    "/administrator/assets/js/libs.js": "/administrator/assets/js/libs.js"
+}
