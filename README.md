@@ -1,8 +1,11 @@
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
 ## About This Laravel Admin System
 
 It's a backend CMS like admin system that can be used to manage a website.
-This admin systen is utelizing the bootstrap scaffolding
 
+Laravel version: 7
+Scaffolding: Bootstrap
 
 It has a couple build in features and relationships
 - Pages
