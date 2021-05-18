@@ -73,5 +73,9 @@ It has a couple build in features and relationships
 - Via profile settings users can enable mail notifications
 - Notifications are setup as many to many but at the moment only used for comments
 
+# Donations
+- Donations are appreciated
+- BTC 1HJSV7xU6fu6HzuYUgUo8jtpENLKCriSQi
+
 
 
