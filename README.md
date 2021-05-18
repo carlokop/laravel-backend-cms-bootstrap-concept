@@ -1,4 +1,4 @@
-<p align="center"><img src="https://en.wikipedia.org/wiki/File:Laravel.svg" width="400"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="400"></p>
 
 ## About This Laravel Admin System
 
